@@ -57,7 +57,7 @@ Sirve como recurso para quienes estén interesados en conocer la profundidad de 
 
 ## 🌍 Idioma
 
-- **Castellano** 🇪🇸🇺🇸  
+- **Castellano**  
   El contenido se encuentra en castellano principalmente, aunque puedes encontrar cosas en inglés.
 
 ---
