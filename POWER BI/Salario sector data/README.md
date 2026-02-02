@@ -27,7 +27,7 @@ Estados Unidos presenta el **salario medio más alto** frente al resto de paíse
 
 ---
 
-## 🇪🇸 Foco en España — Mid-level / Semi-senior
+## Foco en España — Mid-level / Semi-senior
 
 - **Salario medio:** $60,81k  
 - **Puestos totales:** 24  
