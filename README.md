@@ -66,6 +66,6 @@ Sirve como recurso para quienes estén interesados en conocer la profundidad de 
 
 Si tienes alguna pregunta, comentario o simplemente quieres conectar, no dudes en contactarme a través de:
 
-- **Email:** juanjocaparrosp@gmail.com`
+- **Email:** juanjocaparrosp@gmail.com
 
 Siempre me complace compartir ideas, colaborar y seguir creciendo en este increíble campo de la tecno
