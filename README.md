@@ -1,6 +1,5 @@
 # Analytics_Portfolio
 
-¡Listo! Aquí tienes el contenido en Markdown (README.md), bien estructurado y listo para pegar directamente en GitHub 👌📘
 
 # 📊💻 Portafolio de Análisis de Datos
 
