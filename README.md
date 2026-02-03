@@ -64,9 +64,9 @@ Sirve como recurso para quienes estén interesados en conocer la profundidad de 
 
 ## 📬 Contáctame
 
+
 Si tienes alguna pregunta, comentario o simplemente quieres conectar, no dudes en contactarme a través de:
 
-- **Email:** juanjocaparrosp@gmail.com
-- **Linkedin:** linkedin.com/in/juan-josé-caparrós-pino-866363173
+- **Email:** [juanjocaparrosp@gmail.com](mailto:juanjocaparrosp@gmail.com)
+- **LinkedIn:** [Juan José Caparrós Pino](https://www.linkedin.com/in/juan-jos%C3%A9-caparr%C3%B3s-pino-866363173/)
 
-Siempre me complace compartir ideas, colaborar y seguir creciendo en este increíble campo de la tecno
